@@ -1,5 +1,5 @@
 ## Writeup
-### You can find all code in VehicleDetection.ipynb.
+### You can find all code in VehicleDetection.ipynb and VehicleDetection.html.
 
 ---
 
